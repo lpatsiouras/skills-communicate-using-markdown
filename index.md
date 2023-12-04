@@ -6,3 +6,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [x] desig architecture
+- [x] write requirements
+- [ ] develop compnent
+- [ ] deploy component
